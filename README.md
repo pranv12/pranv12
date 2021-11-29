@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranv12
-- 👀 I’m interested in you?
-- 🌱 I’m currently learning about your repo?
+- 👀 I’m interested in you (...?)
+- 🌱 I’m currently learning about your repo (...?)
 - 💞️ I’m looking to collaborate on knowledge we have
 - 📫 How to reach me, I haven't found myself yet.
 
